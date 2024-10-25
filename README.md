@@ -3,11 +3,11 @@
 
 - 🔭 Actualmente estoy trabajando en **Clon de Instagram (Django Python)**
 
-- 🌱 Me encuentro aprendiendo **Node.js, MongoDB, Flutter, Firebase**
+- 🌱 Me encuentro aprendiendo **microservicios**
 
-- 👨‍💻 Visita mi portafolio web [https://zprismo.github.io/](https://zprismo.github.io/)
+- 👨‍💻 Visita mi portafolio web [https://prismodevx.github.io/](https://prismodevx.github.io/)
 
-- 💬 Pregúntame sobre **C++, Django, Python, SQL Server, PHP, JavaScript**
+- 💬 Pregúntame sobre **Vue, Django, SQL Server, TypeScript, Java**
 
 - 📫 Contáctame **ansonybrine95@gmail.com**
 
